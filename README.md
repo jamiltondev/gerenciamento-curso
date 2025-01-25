@@ -52,7 +52,7 @@ Relaciona cursos e estudantes (muitos-para-muitos).
   - Spring Web
   - Spring Data JPA
   - Bean Validation
-- **Banco de Dados**: H2 e MySQL  
+- **Banco de Dados**: MySQL  
 - **Lombok**  
 - **Ferramentas de Desenvolvimento**: Spring Boot DevTools  
 
